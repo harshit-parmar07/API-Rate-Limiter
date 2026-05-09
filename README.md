@@ -1,4 +1,4 @@
-# Java API Rate Limiter 🚦
+# Java API Rate Limiter
 
 A lightweight, thread-safe, in-memory API Rate Limiter built entirely in Core Java with zero external dependencies.
 
@@ -14,7 +14,7 @@ This project demonstrates the translation of backend system design concepts (spe
 
 ## 🧠 Why This Project?
 
-While enterprise rate limiters often rely on distributed caches like Redis, I built this strictly in-memory version from scratch to deeply understand the underlying algorithms and Java's concurrency models. It serves as a proof-of-concept for handling multi-threaded backend traffic efficiently using native Java Collections.
+While enterprise rate limiters often rely on distributed caches like Redis, I built this strictly in-memory version from scratch to deeply understand the underlying algorithms and Java's concurrency models.
 
 ## 📂 Project Structure
 
