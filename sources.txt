@@ -1,6 +1,0 @@
-src/main/java/com/ratelimiter/strategy/TokenBucketStrategy.java
-src/main/java/com/ratelimiter/strategy/RateLimitStrategy.java
-src/main/java/com/ratelimiter/RateLimitOptions.java
-src/main/java/com/ratelimiter/Main.java
-src/main/java/com/ratelimiter/RateLimiter.java
-src/main/java/com/ratelimiter/RateLimitResponse.java
